@@ -1,0 +1,5 @@
+﻿TOP = Top Lane
+JUNGLE = Jungle
+MIDDLE = Middle Lane
+BOTTOM = Bottom Lane
+UNSELECTED = Unselected

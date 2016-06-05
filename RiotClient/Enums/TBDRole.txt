@@ -1,0 +1,7 @@
+﻿UNSELECTED = ?
+UTILITY = Support
+JUNGLE = Jungle
+MIDDLE = Middle
+BOTTOM = Bottom
+TOP = Top
+FILL = Fill
