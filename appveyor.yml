@@ -24,7 +24,7 @@ after_build:
 
 # define solution file
 build:
-  project: LegendaryClient.sln
+  project: LeagueClient.sln
   
   # shut up
   verbosity: minimal
